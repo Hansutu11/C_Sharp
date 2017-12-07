@@ -1,8 +1,0 @@
-/Users/TheUtus/Desktop/first_csharp/Week_1/collections/bin/Debug/netcoreapp1.1/collections.deps.json
-/Users/TheUtus/Desktop/first_csharp/Week_1/collections/bin/Debug/netcoreapp1.1/collections.runtimeconfig.json
-/Users/TheUtus/Desktop/first_csharp/Week_1/collections/bin/Debug/netcoreapp1.1/collections.runtimeconfig.dev.json
-/Users/TheUtus/Desktop/first_csharp/Week_1/collections/bin/Debug/netcoreapp1.1/collections.dll
-/Users/TheUtus/Desktop/first_csharp/Week_1/collections/bin/Debug/netcoreapp1.1/collections.pdb
-/Users/TheUtus/Desktop/first_csharp/Week_1/collections/obj/Debug/netcoreapp1.1/collections.AssemblyInfo.cs
-/Users/TheUtus/Desktop/first_csharp/Week_1/collections/obj/Debug/netcoreapp1.1/collections.dll
-/Users/TheUtus/Desktop/first_csharp/Week_1/collections/obj/Debug/netcoreapp1.1/collections.pdb
